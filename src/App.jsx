@@ -142,7 +142,7 @@ export default function App() {
       }}
     >
       {/* Header */}
-      <h1 className="text-4xl font-bold mb-8" style={{ fontFamily: 'monospace' }}>
+      <h1 className="text-4xl font-bold mb-8 text-yellow-400" style={{ fontFamily: 'monospace' }}>
         Gaia Tappy
       </h1>
 
